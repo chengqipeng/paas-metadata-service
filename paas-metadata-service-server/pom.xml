@@ -42,7 +42,6 @@
         <dependency>
             <groupId>com.xxx</groupId>
             <artifactId>framework-lifecycle-spring-boot-autoconfigure</artifactId>
-            <version>${framework-lifecycle.version}</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
