@@ -6,7 +6,7 @@
     <artifactId>paas-metadata-service-core</artifactId>
     <packaging>jar</packaging>
     <parent>
-        <groupId>com.rkhd.platform</groupId>
+        <groupId>com.hongyang.platform</groupId>
         <artifactId>paas-metadata-service</artifactId>
         <version>${revision}</version>
     </parent>

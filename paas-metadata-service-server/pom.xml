@@ -6,17 +6,17 @@
     <artifactId>paas-metadata-service-server</artifactId>
     <packaging>jar</packaging>
     <parent>
-        <groupId>com.rkhd.platform</groupId>
+        <groupId>com.hongyang.platform</groupId>
         <artifactId>paas-metadata-service</artifactId>
         <version>${revision}</version>
     </parent>
     <dependencies>
         <dependency>
-            <groupId>com.rkhd.platform</groupId>
+            <groupId>com.hongyang.platform</groupId>
             <artifactId>paas-metadata-service-core</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.rkhd.platform</groupId>
+            <groupId>com.hongyang.platform</groupId>
             <artifactId>paas-metarepo-service-core</artifactId>
         </dependency>
         <dependency>
