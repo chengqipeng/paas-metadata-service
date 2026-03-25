@@ -12,7 +12,7 @@
     </parent>
     <dependencies>
         <dependency>
-            <groupId>com.xxx</groupId>
+            <groupId>com.hongyang</groupId>
             <artifactId>framework-base</artifactId>
         </dependency>
         <dependency>

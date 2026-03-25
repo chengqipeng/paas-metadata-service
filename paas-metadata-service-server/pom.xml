@@ -36,11 +36,11 @@
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.xxx</groupId>
+            <groupId>com.hongyang</groupId>
             <artifactId>framework-redis-client</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.xxx</groupId>
+            <groupId>com.hongyang</groupId>
             <artifactId>framework-lifecycle-spring-boot-autoconfigure</artifactId>
         </dependency>
         <dependency>
