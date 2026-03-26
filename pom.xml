@@ -24,6 +24,7 @@
 
     <modules>
         <module>paas-metadata-service-core</module>
+        <module>paas-metadata-service-feign</module>
         <module>paas-metadata-service-server</module>
     </modules>
 
@@ -44,6 +45,11 @@
             <dependency>
                 <groupId>com.hongyang.platform</groupId>
                 <artifactId>paas-metadata-service-core</artifactId>
+                <version>${revision}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.hongyang.platform</groupId>
+                <artifactId>paas-metadata-service-feign</artifactId>
                 <version>${revision}</version>
             </dependency>
             <dependency>
